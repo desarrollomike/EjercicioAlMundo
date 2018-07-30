@@ -23,3 +23,11 @@ Extras/Plus<br>
 Tener en Cuenta<br>
 El proyecto debe ser creado con Maven.<br>
 De ser necesario, anexar un documento con la explicación del cómo y porqué resolvió los puntos extras, o comentarlo en las clases donde se encuentran sus tests unitarios respectivos.
+
+
+<br> Para resolver el problema de mas llamadas que empleados, se resolvio una cola de pendientes, donde se van encolando todas las llamadas que no pudieron tener atencion y luego cuando se desocupan los empleados las van atendiendo.
+Se agrego test para dicho caso y se documento cada uno de los test con la explicacion de los mismos.
+
+<br>Pendiente: Me quedo pendiente armar el UML por cuestiones de falta de tiempo en mi trabajo.
+
+<br>Saludos
